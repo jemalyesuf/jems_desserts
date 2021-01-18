@@ -1,5 +1,5 @@
 chips
 nuts
 water
-nuts
-
+peanuts
+chestnuts
